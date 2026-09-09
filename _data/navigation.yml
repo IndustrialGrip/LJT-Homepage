@@ -6,28 +6,31 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
+#
+# NOTE that the urls below are absolute, so they include the site `baseurl`
+#      ("/LJT-Homepage", see _config.yml). Update them if the baseurl changes.
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /LJT-Homepage/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /LJT-Homepage/talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /LJT-Homepage/teaching/
+
   - title: "Portfolio"
-    url: /portfolio/
-        
+    url: /LJT-Homepage/portfolio/
+
   - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /LJT-Homepage/year-archive/
+
   - title: "CV"
-    url: /cv/
-    
+    url: /LJT-Homepage/cv/
+
   # - title: "CV"
   #   url: /cv-json/
-    
+
   - title: "Guide"
-    url: /markdown/
+    url: /LJT-Homepage/markdown/
