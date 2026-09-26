@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024–Present
+* **B.Eng.**, Shanghai Jiao Tong University, 2020–2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern**, MINIMAX, February 2025–present
+* **Research Intern**, Tencent WXG, June 2024–September 2024
+* **Research Intern**, Shanghai AI Lab, June 2023–December 2023
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards
+======
+* **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Machine learning and natural language processing**: large language models, vision-language models, and empirical research on LLM reasoning, hallucination in vision-language models, and LLM truthfulness
+* **Research engineering**: designing and running large-scale experiments, and open-sourcing the research code, including the codebases released for SynLogic and for the chart-understanding study of vision-language models
 
 Publications
 ======
@@ -50,7 +38,7 @@ Publications
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -58,7 +46,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
