@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in Computer Science at the **Hong Kong University of Science and Technology (HKUST)**, where I am a member of the [HKUST NLP Group](https://nlp.ust.hk/) and am supervised by **Professor Junxian He**. My research lies at the intersection of natural language processing and machine learning.
+I am a first-year Ph.D. candidate in Computer Science at the **Hong Kong University of Science and Technology (HKUST)**, where I am a member of the HKUST NLP Group and am supervised by **Professor Junxian He**. My research lies at the intersection of natural language processing and machine learning.
 
 Education
 ======
